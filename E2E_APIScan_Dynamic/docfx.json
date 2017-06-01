@@ -29,7 +29,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+       "product":["Internal_E2ETest"]
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_APIScan_Dynamic"
